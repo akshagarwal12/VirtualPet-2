@@ -3,7 +3,7 @@ html, body {
   padding: 0;
 }
 canvas{
-  border: 2px solid black;
-  margin-top:50px;
-  margin-left: 350px;
+  border: 10px solid red;
+  margin-top:0px;
+  margin-left: 0px;
 }
